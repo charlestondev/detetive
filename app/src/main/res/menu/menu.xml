@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:detetive="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_clear"
+        android:icon="@drawable/abc_ic_clear_mtrl_alpha"
+        android:title="Limpar"
+        detetive:showAsAction="always"
+        />
+    <item android:id="@+id/action_bluetooth"
+        android:icon="@android:drawable/stat_sys_data_bluetooth"
+        android:title="ativar bluetooth"
+        detetive:showAsAction="always"
+        />
+
+</menu>

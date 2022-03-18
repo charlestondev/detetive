@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tabela jogo detetive</string>
+
+    <string-array name="estados_suspeito">
+        <item>Suspeito</item>
+        <item>Limpo</item>
+        <item>Eu tenho</item>
+        <item>Há duvidas</item>
+    </string-array>
+
+    <string name="title_activity_players">PlayersActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <!--string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string-->
+    <string name="banner_ad_unit_id">ca-app-pub-3687610297310815/6688563688</string>
+
+</resources>
